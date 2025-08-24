@@ -4,7 +4,7 @@ Bem-vindo ao meu portfólio! 🚀
 Este projeto foi desenvolvido em **HTML e CSS** com o objetivo de apresentar minhas habilidades, projetos e informações de contato de forma simples e profissional.  
 
 ## 👨‍💻 Sobre mim
-Meu nome é **Vinicius Ferreira**, sou estudante de **Engenharia de Software** no Brasil.  
+Meu nome é **Vinicius Ferreira**, sou estudante de **Engenharia de Software**   
 Tenho interesse em desenvolvimento web, programação e novas tecnologias.  
 Busco constantemente aprender e aplicar boas práticas de desenvolvimento.  
 
