@@ -29,9 +29,9 @@ Busco constantemente aprender e aplicar boas práticas de desenvolvimento.
 *(obs: troque `seu-usuario` pelo seu nome de usuário do GitHub quando publicar no GitHub Pages)*  
 
 ## 📫 Contato
-- Email: [vinicius@email.com](mailto:vinicius@email.com)  
-- LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
-- GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)  
+- Email: []()  
+- LinkedIn: [linkedin.com/in/]()  
+- GitHub: [github.com/]()  
 
 ---
 
